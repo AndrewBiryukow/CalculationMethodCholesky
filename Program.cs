@@ -1,4 +1,3 @@
-﻿
 using MathNet.Numerics.LinearAlgebra;
 using System;
 using System.Linq;
@@ -9,7 +8,7 @@ class Program
     {
         // Задання розміру квадратної матриці
         Console.Write("Введіть розмірність квадратної матриці: ");
-        int n = int.Parse(Console.ReadLine());
+        int n =  int.Parse(Console.ReadLine());
         // Створення матриці A з нулями за розміром n x n
         Matrix<double> A = Matrix<double>.Build.Dense(n, n);
         // Заповнення матриці A введеними значеннями з клавіатури
