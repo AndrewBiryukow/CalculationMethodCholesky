@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nB0cgjua8nhGYOJVf57QmjVv+ACJToz/XOmiQVBK9FKUuUGz/tM5/vE4TPtzSVQTzoVhipp/3m7LASE/r5Sopw==",
+  "success": true,
+  "projectFilePath": "K:\\CSharpProjects\\Practice\\Task3_V2_NET6.0\\Task3_V2_NET6.0\\Task3_V2_NET6.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
